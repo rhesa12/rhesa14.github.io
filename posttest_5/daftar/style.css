@@ -1,0 +1,25 @@
+body{
+    background-image: url("blue-marlin-fish-jumping_43623-932.jpg");
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    width: 300px;
+    height: fit-content;
+    background-color: rgba(122, 187, 240, 0.973);
+    display: absolute;
+    margin: auto;
+    margin-top: auto;
+    left: 0px;
+    top: 0px;
+    border-radius: 10px;
+}
+.input-group{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.login-text{
+    text-align: center;
+}
